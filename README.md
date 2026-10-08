@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-- 💼 Desenvolvedor backend na **Atlanta Tecnologia**, trabalhando com **Java e Spring Boot** no backend de um sistema corporativo.
+- 💼 Desenvolvedor backend trabalhando com **Java e Spring Boot** no backend de um sistema corporativo.
 - 🎓 Estudante de **Engenharia Mecatrônica** no IFCE (conclusão prevista em 2027).
 - 🔁 Vim da área de pesquisa e desenvolvimento, de onde trouxe o hábito de depurar com método e prestar atenção nos detalhes.
 - 🌱 Estudando agora: APIs REST com Spring, modelagem de dados relacional e NoSQL, e boas práticas de arquitetura em camadas.

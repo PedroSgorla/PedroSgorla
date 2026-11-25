@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor **fullstack com foco em backend**. Na **Atlanta Tecnologia**, trabalho com **Java e Spring Boot** no backend de um sistema corporativo. Também sou estudante de **Engenharia Mecatrônica** no IFCE (conclusão prevista em 2027).
+Sou desenvolvedor **fullstack com foco em backend**. Trabalho com **Java e Spring Boot** no backend. Também sou estudante de **Engenharia Mecatrônica** no IFCE (conclusão prevista em 2027).
 
 ### 🔧 Principais áreas de atuação:
 
@@ -24,7 +24,7 @@ Vim da área de **pesquisa e desenvolvimento**, de onde trouxe o hábito de depu
 
 ### 🧠 Estudando agora:
 
-**APIs REST com Spring**, **modelagem de dados relacional e NoSQL** e **boas práticas de arquitetura em camadas**
+**Microserviços e aplicações escaláveis em com Springboot**
 
 </div>
 

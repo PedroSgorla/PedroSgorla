@@ -24,7 +24,7 @@ Vim da área de **pesquisa e desenvolvimento**, de onde trouxe o hábito de depu
 
 ### 🧠 Estudando agora:
 
-**Microserviços e aplicações escaláveis em com Springboot**
+**Microserviços e aplicações escaláveis com Springboot**
 
 </div>
 

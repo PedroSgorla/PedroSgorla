@@ -99,7 +99,7 @@ Arquitetura em camadas · Microsserviços · Autenticação com JWT · DAO · DT
 
 </div>
 
-<p align="center"><i>Aberto a oportunidades e conversas sobre desenvolvimento fullstack com foco em backend Java. Fique à vontade para me chamar!</i></p>
+<p align="center"><i>Aberto a oportunidades e conversas sobre desenvolvimento fullstack com foco em backend Java. Fique à vontade para me chamar no LinkedIn ou enviar um email para pedrosgorladev@gmail.com</i></p>
 
 ---
 

@@ -86,7 +86,7 @@ Arquitetura em camadas · Microsserviços · Autenticação com JWT · DAO · DT
 | [**image-lite-api**](https://github.com/PedroSgorla/image-lite-api) | Backend do ImageLite: API REST com autenticação JWT, senhas com BCrypt, upload e busca de imagens. | Java 17 · Spring Boot · Spring Security · JPA · PostgreSQL |
 | [**image-lite-frontend**](https://github.com/PedroSgorla/image-lite-frontend) | Frontend do ImageLite: telas de login, galeria com busca e formulário de upload com validação. | Next.js · React · TypeScript · Tailwind CSS |
 | [**FinTracker**](https://github.com/PedroSgorla/FinTracker) | App de finanças pessoais com interface desktop em JavaFX e persistência em MySQL: receitas, despesas (inclusive mensais recorrentes), busca, filtros e relatório com gráfico. Começou como app de console. | Java · JavaFX · JDBC · MySQL · JUnit |
-| [**icompras-ms-project**](https://github.com/PedroSgorla/icompras-ms-project) | Projeto de microsserviços em desenvolvimento (clientes, produtos e pedidos), feito num curso. | Java · Spring Boot · Maven |
+| [**icompras-ms-project**](https://github.com/PedroSgorla/icompras-ms-project) | Projeto de microsserviços em desenvolvimento (clientes, produtos e pedidos). | Java 21 · Spring Boot · Maven |
 
 ---
 
